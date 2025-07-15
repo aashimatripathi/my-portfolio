@@ -187,8 +187,7 @@ body {
 }
 
 .hero-image img {
-    width: auto;
-    max-width: 500px;
+    max-width: auto;
     height: 700px;
     object-fit: cover;
     border-radius: 50%;
